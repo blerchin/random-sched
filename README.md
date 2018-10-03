@@ -8,8 +8,9 @@ This is a quick script that randomly assigns a group of people to a set of time 
 
 ```
 git clone https://github.com/blerchin/random-sched.git
-
+cd random-sched
 pip3 install -r requirements.txt
+
 ./shuffle.py
 ```
 
